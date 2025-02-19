@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AWS Cloud & DevOps Engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **TATA Consultancy Services Ltd**
+- 🔭 I’m currently working on **TATA Consultancy Services**
 - 📫 How to reach me **badrisake0312@gmail.com**
 
 - 🌍  I'm based in **Bengaluru, India.**

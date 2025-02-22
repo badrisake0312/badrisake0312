@@ -7,7 +7,7 @@
 
 - 🌍  I'm based in **Bengaluru, India.**
 
-- ⚡ Fun fact **"Keep learning, keep leading."**
+- ⚡ Fun fact **"small steps, every day."**
   
 
 
